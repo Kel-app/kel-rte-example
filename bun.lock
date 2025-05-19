@@ -4,7 +4,7 @@
     "": {
       "name": "kel-rte-example",
       "dependencies": {
-        "@kel-app/rte": "^0.1.0-alpha.2.4.5-51625",
+        "@kel-app/rte": "^0.1.0-alpha.2.4.5-51925",
         "next": "15.3.1",
         "next-themes": "^0.4.6",
         "react": "^19.1.0",
@@ -13,7 +13,7 @@
       "devDependencies": {
         "@eslint/eslintrc": "^3.3.1",
         "@tailwindcss/postcss": "^4.1.7",
-        "@types/node": "^20.17.47",
+        "@types/node": "^20.17.48",
         "@types/react": "^19.1.4",
         "@types/react-dom": "^19.1.5",
         "eslint": "^9.27.0",
@@ -119,7 +119,7 @@
 
     "@jridgewell/trace-mapping": ["@jridgewell/trace-mapping@0.3.25", "", { "dependencies": { "@jridgewell/resolve-uri": "^3.1.0", "@jridgewell/sourcemap-codec": "^1.4.14" } }, "sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ=="],
 
-    "@kel-app/rte": ["@kel-app/rte@0.1.0-alpha.2.4.5-51625", "", { "dependencies": { "@dear-rama/prosemirror-placeholder": "^2.0.4", "prosemirror-commands": "^1.7.1", "prosemirror-history": "^1.4.1", "prosemirror-keymap": "^1.2.2", "prosemirror-model": "^1.25.0", "prosemirror-schema-basic": "^1.2.4", "prosemirror-schema-list": "^1.5.1", "prosemirror-state": "^1.4.3", "prosemirror-view": "^1.39.1", "react": "^19.1.0", "react-dom": "^19.1.0" } }, "sha512-aN8YjS1TWbofo+LsB1ooXNPlcq8xemstQjflJSnRJilqFQ1OFFA/d5WdDvqjOoWpz8Z1TEx6QoSQK6VNOMMumQ=="],
+    "@kel-app/rte": ["@kel-app/rte@0.1.0-alpha.2.4.5-51925", "", { "dependencies": { "@dear-rama/prosemirror-placeholder": "^2.0.4", "prosemirror-commands": "^1.7.1", "prosemirror-history": "^1.4.1", "prosemirror-keymap": "^1.2.2", "prosemirror-model": "^1.25.0", "prosemirror-schema-basic": "^1.2.4", "prosemirror-schema-list": "^1.5.1", "prosemirror-state": "^1.4.3", "prosemirror-view": "^1.39.1", "react": "^19.1.0", "react-dom": "^19.1.0" } }, "sha512-deKyvXOPbw2C9tk9mXYSVOmkLg3NiPdlXo2jke+DHrvxRxvF/hZ2Avvqtf0oNv52UkbGhHRA8ukvGffyipdVQw=="],
 
     "@napi-rs/wasm-runtime": ["@napi-rs/wasm-runtime@0.2.10", "", { "dependencies": { "@emnapi/core": "^1.4.3", "@emnapi/runtime": "^1.4.3", "@tybys/wasm-util": "^0.9.0" } }, "sha512-bCsCyeZEwVErsGmyPNSzwfwFn4OdxBj0mmv6hOFucB/k81Ojdu68RbZdxYsRQUPc9l6SU5F/cG+bXgWs3oUgsQ=="],
 
@@ -197,7 +197,7 @@
 
     "@types/json5": ["@types/json5@0.0.29", "", {}, "sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ=="],
 
-    "@types/node": ["@types/node@20.17.47", "", { "dependencies": { "undici-types": "~6.19.2" } }, "sha512-3dLX0Upo1v7RvUimvxLeXqwrfyKxUINk0EAM83swP2mlSUcwV73sZy8XhNz8bcZ3VbsfQyC/y6jRdL5tgCNpDQ=="],
+    "@types/node": ["@types/node@20.17.48", "", { "dependencies": { "undici-types": "~6.19.2" } }, "sha512-KpSfKOHPsiSC4IkZeu2LsusFwExAIVGkhG1KkbaBMLwau0uMhj0fCrvyg9ddM2sAvd+gtiBJLir4LAw1MNMIaw=="],
 
     "@types/react": ["@types/react@19.1.4", "", { "dependencies": { "csstype": "^3.0.2" } }, "sha512-EB1yiiYdvySuIITtD5lhW4yPyJ31RkJkkDw794LaQYrxCSaQV/47y5o1FMC4zF9ZyjUjzJMZwbovEnT5yHTW6g=="],
 
