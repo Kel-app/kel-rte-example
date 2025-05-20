@@ -6,6 +6,10 @@ This is a working example of the Kel RTE component.
 
 This was made using bun.sh, so you'll need to install bun first.
 
+see [bun.sh](https://bun.sh) for more info
+
+Install dependencies with
+
 ```bash
 bun install
 ```
